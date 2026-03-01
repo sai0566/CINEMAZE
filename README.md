@@ -3,7 +3,7 @@
 
 ## 🚀 Live Demo
 
-🔗 Add your deployed link here (Netlify / Vercel)
+🔗 cinemaze-alpha.vercel.app
 
 ---
 
