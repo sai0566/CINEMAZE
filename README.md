@@ -3,7 +3,7 @@
 
 ## 🚀 Live Demo
 
-🔗 cinemaze-alpha.vercel.app
+🔗 https://cinemaze-alpha.vercel.app
 
 ---
 
